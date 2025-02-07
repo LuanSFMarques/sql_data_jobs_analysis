@@ -2,13 +2,7 @@
 What skills are required for the top-paying data analyst jobs
 - Use the top 10 highest-paying Data Analyst jobs from first query
 - Add the specific skills required for these roles
-*/
-
-SELECT
-    *
-FROM
-    skills_job_dim
-LIMIT 10;        
+*/      
 
 WITH top_analyst_jobs AS(
     SELECT
@@ -40,4 +34,13 @@ WHERE
 GROUP BY
     skills
 ORDER BY
-    skill_apparitions DESC;   
+    skill_apparitions DESC;
+
+/*
+INSIGHT:
+    - The most frequently required skills in top jobs are SQL (in 8 out of 10 jobs), Python (in 7 out of 10 jobs),
+    and Tableau (in 6 out of 10 jobs).
+    - Between 30% and 40% of job postings mention R, Snowflake, Pandas, and Excel.
+    - A smaller portion (around 20%) require tools such as Atlassian, Jira, AWS, Azure, Go, Oracle, 
+    Power BI, PowerPoint...
+*/   
