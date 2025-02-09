@@ -23,8 +23,15 @@ Additionally, I took the initiative to create data visualizations using Matplotl
 - What are the most optimal skills to learn? (Optimal: High Demand AND High Paying)
 
 # Tools I Used
-The database was stored using PostgreSQL and all the analisys was made using SQL.
-For visualization, python with the libraries Pandas and Matplotlib
+For this analysis, I leveraged key skills essential to the data analysis process:
+
+**PostgreSQL**: Used for storing and delivering data.
+
+**SQL**: Applied in a traditional manner to perform queries and extract insights.
+
+**Python**: The primary tool for handling query results (using Pandas) and creating visualizations (using Matplotlib).
+
+**GitHub**: Used for version control and project publication.
 
 
 # The Analysis
