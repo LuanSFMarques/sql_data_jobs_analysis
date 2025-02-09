@@ -33,7 +33,44 @@ For this analysis, I leveraged key skills essential to the data analysis process
 
 **GitHub**: Used for version control and project publication.
 
+**ChatGPT**: Used to assist with problem-solving and code development.
+
 
 # The Analysis
+
+Each of the five key questions in this analysis was explored using queries to investigate trends and patterns in the Data Analyst job market.
+
+## 1 & 2. Top 10 Most Common Skills in the 10 Highest-Paying Data Analyst Jobs
+![Top paying skills in top paying jobs](visualizations\plot_query_1_2.png)
+*Each bar represents one of the top 10 most frequent skills in the highest-paying Data Analyst positions. The number on top of each bar indicates how often the skill appears in these roles.*
+
+### Key Insights from Queries 1 & 2:
+- **Salary Range:** The salaries among the top 10 highest-paying companies vary between **$184,000 and $650,000**, showing a significant gap even within this exclusive selection. A reasonable estimate for a typical high-paying job would be somewhere between **$200,000 and $300,000**.  
+
+- **Most Commonly Required Skills:**  
+  - **60% of the top-paying positions require three of the most widely recognized data skills:**  
+    - SQL (**80%**)  
+    - Python (**70%**)  
+    - Tableau (**60%**)  
+  - **Around 50% of these jobs also list other well-known skills** like Excel, R, and Pandas.  
+
+- **Less Common but High-Value Skills:**  
+  - Skills like Azure, Jira, AWS, Atlassian, and others appear in lower percentages.  
+  - These specialized skills **vary significantly between job postings**, but every high-paying job **requires at least one highly uncommon skill**, setting them apart from general openings.  
+
+## 3. Most in demand skills
+![Most in demand skills](visualizations\plot_query_3.png)
+*Each bar represents one of the top 5 most in-demand skills across all Data Analyst job postings, and the values above represent the number of occurrences of these skills across all the job listings found.*
+
+### Key Insights from Querie 3:
+- The high occurrence of these skills in job descriptions indicates that they are essential for anyone pursuing a career in data analysis. Lacking proficiency in one of them could significantly impact job opportunities, especially in highly competitive roles.
+- Notably, SQL appears in 92,000 job postings, with a substantial gap of around 25,000 listings before the second most requested skill, Excel—which is closely followed by Python and Tableau.
+- Power BI is also widely mentioned but at a noticeably lower frequency compared to the top three skills.
+
+## 4. Skills Based on Salary
+![Skills Based on Salary](visualizations\plot_query_4.png)
+## 5. Most Optimal Skills
+![Most Optimal Skills](visualizations\plot_query_5.png)
+
 # What i Learned
 # Conclusions
