@@ -41,7 +41,7 @@ For this analysis, I leveraged key skills essential to the data analysis process
 Each of the five key questions in this analysis was explored using queries to investigate trends and patterns in the Data Analyst job market.
 
 ## 1 & 2. Top 10 Most Common Skills in the 10 Highest-Paying Data Analyst Jobs
-![Top paying skills in top paying jobs](visualizations\plot_query_1_2.png)
+![Top paying skills in top paying jobs](visualizations/plot_query_1_2.png)
 *Each bar represents one of the top 10 most frequent skills in the highest-paying Data Analyst positions. The number on top of each bar indicates how often the skill appears in these roles.*
 
 ### Key Insights from Queries 1 & 2:
