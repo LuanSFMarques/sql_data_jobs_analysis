@@ -59,7 +59,7 @@ Each of the five key questions in this analysis was explored using queries to in
   - These specialized skills **vary significantly between job postings**, but every high-paying job **requires at least one highly uncommon skill**, setting them apart from general openings.  
 
 ## 3. Most in demand skills
-![Most in demand skills](visualizations\plot_query_3.png)
+![Most in demand skills](visualizations/plot_query_3.png)
 *Each bar represents one of the top 5 most in-demand skills across all Data Analyst job postings, and the values above represent the number of occurrences of these skills across all the job listings found.*
 
 ### Key Insights from Querie 3:
@@ -68,9 +68,9 @@ Each of the five key questions in this analysis was explored using queries to in
 - Power BI is also widely mentioned but at a noticeably lower frequency compared to the top three skills.
 
 ## 4. Skills Based on Salary
-![Skills Based on Salary](visualizations\plot_query_4.png)
+![Skills Based on Salary](visualizations/plot_query_4.png)
 ## 5. Most Optimal Skills
-![Most Optimal Skills](visualizations\plot_query_5.png)
+![Most Optimal Skills](visualizations/plot_query_5.png)
 
 # What i Learned
 # Conclusions
