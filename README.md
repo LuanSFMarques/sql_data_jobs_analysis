@@ -1,3 +1,4 @@
+![Skills in Data job Postings](cover.png)
 # Introduction
 Dive into valuable insights that uncover trends between skills and job opportunities in data analysis roles! 
 This analysis highlights the average salary per skill in DA positions, identifies the most in-demand skills, and explores the "optimal" skill set for success in the field.
