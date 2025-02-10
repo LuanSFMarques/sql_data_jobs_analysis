@@ -8,12 +8,13 @@ Additionally, you can explore the results of all 5 queries in CSV format here:
 [CSV output](/By_type/Data_Analysis/sql_data_jobs_analysis/data_output/)
 
 # Background
-This project originated as a final assignment in the SQL course taught by the amazing Luke Baroussse. Check it out here.
+This project was created as a final assignment for the SQL course taught by the amazing Luke Baroussse. You can check out the course here:  
 [Video](https://www.youtube.com/watch?v=7mz73uXD9DA)
 
-All challenges were proposed in the course, with the main table (used in PostgreSQL) provided by the instructor. My task was to load the table locally and analyze the data using SQL queries, focusing on identifying trends relevant to my area of interest: "data analysis."
+The course presented a series of challenges, and the main dataset (stored in PostgreSQL) was provided by the instructor. My task was to load this dataset locally and analyze the data using SQL queries, with a focus on identifying key trends relevant to my area of interest: **data analysis**.
 
-Additionally, I took the initiative to create data visualizations using Matplotlib in Python (something not included in the course) as an extra effort to enhance the presentation.
+The dataset, although from 2023, still offers highly relevant insights for today's job market. In addition to the SQL queries, I took the initiative to enhance the project by creating data visualizations using **Matplotlib** in **Python**—something not part of the original course curriculum but added to improve the overall presentation and deepen my understanding of data visualization.
+
 
 ### The five main questions provided by the course were:
 - What are the highest-paying jobs for my role?
